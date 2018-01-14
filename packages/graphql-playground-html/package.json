@@ -36,7 +36,7 @@
   "dependencies": {
     "dotenv": "^4.0.0",
     "graphql-config": "^1.1.1",
-    "graphql-config-extension-graphcool": "1.0.4",
+    "graphql-config-extension-graphcool": "1.0.5",
     "graphql-config-extension-prisma": "0.0.3"
   }
 }
